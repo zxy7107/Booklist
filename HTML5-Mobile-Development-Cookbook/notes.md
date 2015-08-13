@@ -31,6 +31,7 @@
 
 <a name="chapter4">第4章 构建快速响应式移动互联网站点
 > <a name="tips49">4.9 加速按钮反馈 p96
+
 [ch04r06.html](examples/1963_04_code/ch04r06.html)<br>
 [helper.js](examples/1963_04_code/js/helper.js)<br>
 Google博客关于加速按钮反馈的理念和背景：[http://code.google.com/mobile/articles/fast_buttons.html](http://code.google.com/mobile/articles/fast_buttons.html)
