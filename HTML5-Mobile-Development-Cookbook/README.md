@@ -3,7 +3,7 @@
 ## 
 - HTML5 移动Web开发实践
 - 石川
--[源码下载地址](https://www.packtpub.com/books/content/support)
+- [源码下载地址](https://www.packtpub.com/books/content/support)
 
 ## 目录
 [第1章 HTML5与移动网站](notes.md#chapter1)
