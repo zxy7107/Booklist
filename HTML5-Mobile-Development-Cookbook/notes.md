@@ -30,7 +30,7 @@
 
 
 
-<a name="chapter4">第4章 构建快速响应式移动互联网站点>
+<a name="chapter4">第4章 构建快速响应式移动互联网站点
 ---
 <a name="tips409">4.9 加速按钮反馈 p96
 [ch04r06.html](examples/1963_04_code/ch04r06.html)<br>
@@ -41,7 +41,7 @@
 [石川blog:http://www.blog.highub.com/mobile-2/a-fix-for-iphone-viewport-scale-bug/](http://www.blog.highub.com/mobile-2/a-fix-for-iphone-viewport-scale-bug/)
 [demo:http://www.lab.highub.com/m/scalefix.html](http://www.lab.highub.com/m/scalefix.html)
 ***
-<a name="tips409">4.10 隐藏浏览器的地址栏 p99
+<a name="tips410">4.10 隐藏浏览器的地址栏 p99
 [ch04r07.html](examples/1963_04_code/ch04r07.html)<br>
 [helper.js](examples/1963_04_code/js/helper.js)<br>
 ~~&lt;script src="script//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js&gt;&lt;/script&gt;~~
