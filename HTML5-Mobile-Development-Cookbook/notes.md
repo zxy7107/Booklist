@@ -16,6 +16,8 @@
 
 <a name="chapter2">第2章 移动端的配置和优化
 ---
+<a name="tips202">2.2 通过界面图标启动Web应用 p28
+[ch02r01.html](examples/1963_02_code/ch02r01.html)<br>
 
 
 
